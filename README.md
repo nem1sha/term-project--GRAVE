@@ -1,6 +1,6 @@
 # term-project--GRAVE
 
-![telegram-cloud-photo-size-2-5199555991031632898-y](https://github.com/nem1sha/term-project--GRAVE/assets/91321132/09de2dc8-5057-4226-9c19-1d4ded7a99d9)
+![telegram-cloud-photo-size-0.5-5199555991031632898-y](https://github.com/nem1sha/term-project--GRAVE/assets/91321132/09de2dc8-5057-4226-9c19-1d4ded7a99d9)
 
 
 ## Описание
