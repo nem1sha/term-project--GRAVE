@@ -48,11 +48,11 @@ void loop() {
 
     // Проверяем UID карты и выполняем код в зависимости от значения
     if (checkCard(rfid.uid.uidByte)) {
-      Serial.println("МИША КРИНЖ, АХАХАХАХАХ");
+      Serial.println("RIP");
       activateServo();
       cardActivated = true;  // Устанавливаем флаг в true, чтобы не активировать код
     } else {
-      Serial.println("СПАСИБО, ДУРА");
+      Serial.println("Покойся с миром");
     }
 
     // Завершаем считывание карты
